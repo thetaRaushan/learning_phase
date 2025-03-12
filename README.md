@@ -1,5 +1,6 @@
 ## Hi there 👋
 i am just learning this plateform now
+bhut dikkat hai bhai
 <!--
 **thetaRaushan/thetaRaushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
